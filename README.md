@@ -14,13 +14,16 @@ Copy the CSS files across
 
 Restart Discord
 
-Avaliable Themes:
+>Avaliable Themes:
 
->Timmac Pink
+>>**Timmac Pink**
+>>>![alt tag](http://i.imgur.com/amUw5aZ.png)
 
->Timmac Orange
+>>**Timmac Orange**
+>>>![alt tag](http://i.imgur.com/DeNPlhK.png)
 
->Timmac Blue
+>>**Timmac Blue**
+>>>![alt tag](http://i.imgur.com/7UALHvi.png)
 
->Timmac Gray
-
+>**Timmac Gray**
+>>>![alt tag](http://i.imgur.com/CwDv3eG.png)
