@@ -1,5 +1,5 @@
 # DiscordTheme Timmac
->A Timmac BetterDiscord theme for BetterDiscord (https://betterdiscord.net)
+>A Custom BetterDiscord Theme for the BetterDiscord App (https://betterdiscord.net)
 
 ###How To Use BetterDiscord Themes
 
