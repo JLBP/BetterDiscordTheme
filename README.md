@@ -2,4 +2,4 @@
 By JaLBP
 
  Avaiable Themes:
-* Timmac
+* Timmac (https://github.com/JLBP/DiscordTheme/releases/tag/timmac1)
