@@ -1,2 +1,5 @@
 #Discord Themes
-## By JaLBP
+By JaLBP
+
+ Avaiable Themes:
+* Timmac
