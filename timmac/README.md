@@ -3,7 +3,7 @@
 
 ###How To Use BetterDiscord Themes
 
-Download the the themes (https://github.com/JLBP/DiscordTheme/releases/tag/1)
+Download the the themes (https://github.com/JLBP/DiscordTheme/releases/tag/timmac1)
 
 Open the BetterDiscord Themes Folder
 
